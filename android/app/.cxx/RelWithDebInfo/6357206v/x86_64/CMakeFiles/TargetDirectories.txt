@@ -1,0 +1,2 @@
+/Users/rod/Development/sandbox/my_shorebird_app/android/app/.cxx/RelWithDebInfo/6357206v/x86_64/CMakeFiles/edit_cache.dir
+/Users/rod/Development/sandbox/my_shorebird_app/android/app/.cxx/RelWithDebInfo/6357206v/x86_64/CMakeFiles/rebuild_cache.dir
